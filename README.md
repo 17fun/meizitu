@@ -11,4 +11,4 @@ https://meizitu.17fei.fun
 
 ![screenshot](./screenshot.jpg)
 
-## 源码有偿开放(99 元) wbot10 
+### 复制网站联系 wbot10 
